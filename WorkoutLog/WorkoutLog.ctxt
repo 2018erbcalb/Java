@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=WorkoutLog
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=scan
+comment2.target=int\ promptOper(java.util.Scanner)
+comment2.text=\r\n\ @param\ Scanner\r\n\ Lists\ the\ availible\ functions\ and\ asks\ the\ user\ for\ input\r\n\ @return\ int\r\n
+comment3.params=scan\ name\ usrName
+comment3.target=void\ openToday(java.util.Scanner,\ java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ @param\ Scanner\r\n\ @param\ String\r\n\ @param\ String\r\n\ @param\ String\r\n\ Reads\ the\ file\ for\ today\ and\ prints\ it\ out\ on\ screen\r\n\ @return\ void\r\n
+comment4.params=scan\ name\ usrName
+comment4.target=void\ writeToday(java.util.Scanner,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ @param\ Scanner\r\n\ @param\ String\r\n\ @param\ String\r\n\ @param\ String\r\n\ Asks\ the\ user\ for\ input\ and\ writes\ their\ data\ into\ today's\ log\r\n\ @return\ void\r\n
+comment5.params=scan\ name\ usrName\ date
+comment5.target=void\ openPast(java.util.Scanner,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ @param\ Scanner\r\n\ @param\ String\r\n\ @param\ String\r\n\ @param\ String\r\n\ Reads\ the\ file\ for\ a\ given\ date\ and\ prints\ it\ out\ on\ screen\r\n\ @return\ void\r\n
+comment6.params=scan\ name\ usrName\ date
+comment6.target=void\ writePast(java.util.Scanner,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ @param\ Scanner\r\n\ @param\ String\r\n\ @param\ String\r\n\ @param\ String\r\n\ Asks\ the\ user\ for\ input\ and\ writes\ their\ data\ into\ the\ log\ for\ the\ given\ date\r\n\ @return\ void\r\n
+comment7.params=scan\ name\ usrName\ date
+comment7.target=java.lang.String\ promptOpSys(java.util.Scanner,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.text=\r\n\ @param\ Scanner\r\n\ @param\ String\r\n\ @param\ String\r\n\ @param\ String\r\n\ Asks\ the\ user\ for\ what\ operating\ system\ they\ are\ using\ in\ order\ to\ \r\n\ \ \ \ Establish\ which\ file\ navigation\ system\ to\ use.\r\n\ @return\ String\r\n
+numComments=8

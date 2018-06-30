@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Protected
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pw
+comment2.target=java.lang.String\ decryptPass(java.lang.String)
+comment3.params=pw
+comment3.target=java.lang.String\ encryptPass(java.lang.String)
+comment4.params=password\ salt\ iterationCount\ keyLength
+comment4.target=javax.crypto.spec.SecretKeySpec\ createSecretKey(char[],\ byte[],\ int,\ int)
+comment5.params=property\ key
+comment5.target=java.lang.String\ encrypt(java.lang.String,\ javax.crypto.spec.SecretKeySpec)
+comment6.params=bytes
+comment6.target=java.lang.String\ base64Encode(byte[])
+comment7.params=string\ key
+comment7.target=java.lang.String\ decrypt(java.lang.String,\ javax.crypto.spec.SecretKeySpec)
+comment8.params=property
+comment8.target=byte[]\ base64Decode(java.lang.String)
+numComments=9

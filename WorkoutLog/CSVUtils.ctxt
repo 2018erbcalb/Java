@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CSVUtils
+comment1.params=w\ values
+comment1.target=void\ writeLine(java.io.Writer,\ java.util.List)
+comment2.params=w\ values\ separators
+comment2.target=void\ writeLine(java.io.Writer,\ java.util.List,\ char)
+comment3.params=value
+comment3.target=java.lang.String\ followCVSformat(java.lang.String)
+comment4.params=w\ values\ separators\ customQuote
+comment4.target=void\ writeLine(java.io.Writer,\ java.util.List,\ char,\ char)
+comment5.params=theFileName
+comment5.target=void\ readFile(java.lang.String)
+numComments=6
